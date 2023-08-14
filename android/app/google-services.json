@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742129729917",
+    "project_id": "evera-6411a",
+    "storage_bucket": "evera-6411a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742129729917:android:b6416aaf287626f0c30c14",
+        "android_client_info": {
+          "package_name": "com.example.ev_vehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742129729917-me0mheaqkdv12o1up7l5qodsrki7f3pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ev_vehicle",
+            "certificate_hash": "4239cdbadcf24e222ec9cec89c7a54a02ca6753c"
+          }
+        },
+        {
+          "client_id": "742129729917-f6c5n334cc9h1tmnl1b4nik2hl3ra8us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxFX-K3yP6PVoZYf_i2HY3Ja2VV9zA4BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742129729917-f6c5n334cc9h1tmnl1b4nik2hl3ra8us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
